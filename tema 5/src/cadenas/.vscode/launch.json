@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EjemploCharAt",
+            "request": "launch",
+            "mainClass": "EjemploCharAt",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "Prueba",
+            "request": "launch",
+            "mainClass": "Prueba",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploTrim",
+            "request": "launch",
+            "mainClass": "EjemploTrim",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploToCharArray",
+            "request": "launch",
+            "mainClass": "EjemploToCharArray",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploMatches2",
+            "request": "launch",
+            "mainClass": "EjemploMatches2",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploMatches",
+            "request": "launch",
+            "mainClass": "EjemploMatches",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploGroup",
+            "request": "launch",
+            "mainClass": "EjemploGroup",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploExp_Group",
+            "request": "launch",
+            "mainClass": "EjemploExp_Group",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploConversionToString",
+            "request": "launch",
+            "mainClass": "EjemploConversionToString",
+            "projectName": "cadenas_86482cbe"
+        },
+        {
+            "type": "java",
+            "name": "EjemploValidaTelefonoEspa",
+            "request": "launch",
+            "mainClass": "EjemploValidaTelefonoEspa",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploExp_Group",
+            "request": "launch",
+            "mainClass": "EjemploExp_Group",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploGroup",
+            "request": "launch",
+            "mainClass": "EjemploGroup",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploMatches2",
+            "request": "launch",
+            "mainClass": "EjemploMatches2",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploConversionToNumber",
+            "request": "launch",
+            "mainClass": "EjemploConversionToNumber",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploConversionToString",
+            "request": "launch",
+            "mainClass": "EjemploConversionToString",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "Examen",
+            "request": "launch",
+            "mainClass": "Examen",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploTrim",
+            "request": "launch",
+            "mainClass": "EjemploTrim",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploToCharArray",
+            "request": "launch",
+            "mainClass": "EjemploToCharArray",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploSubstring",
+            "request": "launch",
+            "mainClass": "EjemploSubstring",
+            "projectName": "cadenas_b611f37a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
