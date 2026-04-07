@@ -1,0 +1,14 @@
+¿Qué bloques catch se ejecutan en este caso? ¿Por qué?
+    - El que pone FileNotFoundException ya que no encuentra el archivo por que no existe.
+
+¿Por qué el compilador nos obliga a manejar FileNotFoundException pero no ArithmeticException de la Actividad-1?
+    -Por que no estamos haciendo ningun aritmetico estamos trabajando con ficheros
+
+¿Qué sucede en el bloque finally?
+    -Que se ejecuta siempre cuando a terminado los primeros catch
+
+¿Se ejecuta la línea "Recurso 'lector' cerrado con éxito."? ¿Por qué?
+    -Si, ya que se ejecuta si lector es null.
+
+¿Qué pasaría con el bloque finally si el archivo sí existiera?
+    -Se ejecutaria igualmente pero nos diria la linea del programa en caso de que tenga informacion.
